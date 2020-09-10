@@ -1,0 +1,299 @@
+2019-11-13 07:55:43.6765 | INFO | Auto configuration: True
+2019-11-13 07:55:44.1074 | INFO | RestService started at http://localhost:8888/
+2019-11-13 07:55:44.2720 | INFO | RestService stopped
+2019-11-13 07:55:44.2789 | INFO | Auto configuration: True
+2019-11-13 07:55:44.2989 | INFO | Service started
+2019-11-13 07:55:44.4674 | INFO | RestService started at http://localhost:8888/
+2019-11-13 07:57:34.2434 | INFO | Auto configuration: True
+2019-11-13 07:57:34.5266 | INFO | RestService started at http://localhost:8888/
+2019-11-13 07:57:34.6727 | INFO | RestService stopped
+2019-11-13 07:57:34.6797 | INFO | Auto configuration: True
+2019-11-13 07:57:34.7046 | INFO | Service started
+2019-11-13 07:57:34.8562 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:00:23.1195 | INFO | Auto configuration: True
+2019-11-13 08:00:23.4157 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:00:23.5444 | INFO | RestService stopped
+2019-11-13 08:00:23.5932 | INFO | Auto configuration: True
+2019-11-13 08:00:23.6137 | INFO | Service started
+2019-11-13 08:00:23.7809 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:03:52.8375 | INFO | Auto configuration: True
+2019-11-13 08:03:53.1163 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:03:53.2430 | INFO | RestService stopped
+2019-11-13 08:03:53.2629 | INFO | Auto configuration: True
+2019-11-13 08:03:53.3018 | INFO | Service started
+2019-11-13 08:03:53.4644 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:09:59.5664 | INFO | Auto configuration: True
+2019-11-13 08:09:59.8512 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:09:59.9809 | INFO | RestService stopped
+2019-11-13 08:09:59.9809 | INFO | Auto configuration: True
+2019-11-13 08:10:00.0517 | INFO | Service started
+2019-11-13 08:10:00.2415 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:13:02.6774 | INFO | Auto configuration: True
+2019-11-13 08:13:02.9616 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:13:03.0843 | INFO | RestService stopped
+2019-11-13 08:13:03.1351 | INFO | Auto configuration: True
+2019-11-13 08:13:03.1531 | INFO | Service started
+2019-11-13 08:13:03.3082 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:20:06.9793 | INFO | Auto configuration: True
+2019-11-13 08:20:07.2750 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:20:07.4012 | INFO | RestService stopped
+2019-11-13 08:20:07.4092 | INFO | Auto configuration: True
+2019-11-13 08:20:07.4262 | INFO | Service started
+2019-11-13 08:20:07.5835 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:24:43.9308 | INFO | Auto configuration: True
+2019-11-13 08:24:44.2081 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:24:44.3387 | INFO | RestService stopped
+2019-11-13 08:24:44.3587 | INFO | Auto configuration: True
+2019-11-13 08:24:44.4056 | INFO | Service started
+2019-11-13 08:24:44.5631 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:25:41.9831 | INFO | Auto configuration: True
+2019-11-13 08:25:42.2704 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:25:42.4251 | INFO | RestService stopped
+2019-11-13 08:25:42.4251 | INFO | Auto configuration: True
+2019-11-13 08:25:42.4470 | INFO | Service started
+2019-11-13 08:25:42.6121 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:28:40.9768 | INFO | Auto configuration: True
+2019-11-13 08:28:41.2581 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:28:41.3967 | INFO | RestService stopped
+2019-11-13 08:28:41.3967 | INFO | Auto configuration: True
+2019-11-13 08:28:41.4196 | INFO | Service started
+2019-11-13 08:28:41.5812 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:30:30.9855 | INFO | Auto configuration: True
+2019-11-13 08:30:31.2757 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:30:31.4153 | INFO | RestService stopped
+2019-11-13 08:30:31.4243 | INFO | Auto configuration: True
+2019-11-13 08:30:31.4432 | INFO | Service started
+2019-11-13 08:30:31.6018 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:33:59.3719 | INFO | Auto configuration: True
+2019-11-13 08:33:59.6680 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:33:59.8056 | INFO | RestService stopped
+2019-11-13 08:33:59.8056 | INFO | Auto configuration: True
+2019-11-13 08:33:59.8525 | INFO | Service started
+2019-11-13 08:34:00.0472 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:54:44.9390 | INFO | Auto configuration: True
+2019-11-13 08:54:45.2343 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:54:45.4028 | INFO | RestService stopped
+2019-11-13 08:54:45.4207 | INFO | Auto configuration: True
+2019-11-13 08:54:45.4776 | INFO | Service started
+2019-11-13 08:54:45.6422 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:56:04.0995 | INFO | Auto configuration: True
+2019-11-13 08:56:04.3867 | INFO | RestService started at http://localhost:8888/
+2019-11-13 08:56:04.5143 | INFO | RestService stopped
+2019-11-13 08:56:04.5143 | INFO | Auto configuration: True
+2019-11-13 08:56:04.5692 | INFO | Service started
+2019-11-13 08:56:04.7337 | INFO | RestService started at http://localhost:8888/
+2019-11-13 09:02:48.5346 | INFO | Auto configuration: True
+2019-11-13 09:02:48.8498 | INFO | RestService started at http://localhost:8888/
+2019-11-13 09:02:49.0035 | INFO | RestService stopped
+2019-11-13 09:02:49.0134 | INFO | Auto configuration: True
+2019-11-13 09:02:49.0513 | INFO | Service started
+2019-11-13 09:02:49.2129 | INFO | RestService started at http://localhost:8888/
+2019-11-13 09:06:01.5242 | INFO | Auto configuration: True
+2019-11-13 09:06:01.8239 | INFO | RestService started at http://localhost:8888/
+2019-11-13 09:06:01.9576 | INFO | RestService stopped
+2019-11-13 09:06:01.9576 | INFO | Auto configuration: True
+2019-11-13 09:06:01.9845 | INFO | Service started
+2019-11-13 09:06:02.1476 | INFO | RestService started at http://localhost:8888/
+2019-11-13 09:29:05.1110 | INFO | Auto configuration: True
+2019-11-13 09:29:05.3930 | INFO | RestService started at http://localhost:8888/
+2019-11-13 09:29:05.5306 | INFO | RestService stopped
+2019-11-13 09:29:05.5396 | INFO | Auto configuration: True
+2019-11-13 09:29:05.5595 | INFO | Service started
+2019-11-13 09:29:05.7231 | INFO | RestService started at http://localhost:8888/
+2019-11-13 09:54:05.1224 | INFO | Auto configuration: True
+2019-11-13 09:54:05.4126 | INFO | RestService started at http://localhost:8888/
+2019-11-13 09:54:05.5423 | INFO | RestService stopped
+2019-11-13 09:54:05.5423 | INFO | Auto configuration: True
+2019-11-13 09:54:05.5892 | INFO | Service started
+2019-11-13 09:54:05.7657 | INFO | RestService started at http://localhost:8888/
+2019-11-13 09:58:52.0212 | INFO | Auto configuration: True
+2019-11-13 09:58:52.3330 | INFO | RestService started at http://localhost:8888/
+2019-11-13 09:58:52.5069 | INFO | RestService stopped
+2019-11-13 09:58:52.5189 | INFO | Auto configuration: True
+2019-11-13 09:58:52.5513 | INFO | Service started
+2019-11-13 09:58:52.7201 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:00:48.8388 | INFO | Auto configuration: True
+2019-11-13 10:00:49.1296 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:00:49.2768 | INFO | RestService stopped
+2019-11-13 10:00:49.2887 | INFO | Auto configuration: True
+2019-11-13 10:00:49.3037 | INFO | Service started
+2019-11-13 10:00:49.4715 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:01:42.8271 | INFO | Auto configuration: True
+2019-11-13 10:01:43.1153 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:01:43.2435 | INFO | RestService stopped
+2019-11-13 10:01:43.2435 | INFO | Auto configuration: True
+2019-11-13 10:01:43.2674 | INFO | Service started
+2019-11-13 10:01:43.4331 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:06:44.6296 | INFO | Auto configuration: True
+2019-11-13 10:06:44.9126 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:06:45.0572 | INFO | RestService stopped
+2019-11-13 10:06:45.0651 | INFO | Auto configuration: True
+2019-11-13 10:06:45.0881 | INFO | Service started
+2019-11-13 10:06:45.2576 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:08:12.3714 | INFO | Auto configuration: True
+2019-11-13 10:08:12.6531 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:08:12.7848 | INFO | RestService stopped
+2019-11-13 10:08:12.8157 | INFO | Auto configuration: True
+2019-11-13 10:08:12.8327 | INFO | Service started
+2019-11-13 10:08:13.0242 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:09:41.0288 | INFO | Auto configuration: True
+2019-11-13 10:09:41.3490 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:09:41.5324 | INFO | RestService stopped
+2019-11-13 10:09:41.5324 | INFO | Auto configuration: True
+2019-11-13 10:09:41.6291 | INFO | Service started
+2019-11-13 10:09:41.8059 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:10:28.1597 | INFO | Auto configuration: True
+2019-11-13 10:10:28.4739 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:10:28.6124 | INFO | RestService stopped
+2019-11-13 10:10:28.6424 | INFO | Auto configuration: True
+2019-11-13 10:10:28.6584 | INFO | Service started
+2019-11-13 10:10:28.8590 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:12:12.0633 | INFO | Auto configuration: True
+2019-11-13 10:12:12.3443 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:12:12.4799 | INFO | RestService stopped
+2019-11-13 10:12:12.4899 | INFO | Auto configuration: True
+2019-11-13 10:12:12.5757 | INFO | Service started
+2019-11-13 10:12:12.7507 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:12:46.8739 | INFO | Auto configuration: True
+2019-11-13 10:12:47.1511 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:12:47.2791 | INFO | RestService stopped
+2019-11-13 10:12:47.2791 | INFO | Auto configuration: True
+2019-11-13 10:12:47.3030 | INFO | Service started
+2019-11-13 10:12:47.4726 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:13:17.3468 | INFO | Auto configuration: True
+2019-11-13 10:13:17.6431 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:13:17.7758 | INFO | RestService stopped
+2019-11-13 10:13:17.7858 | INFO | Auto configuration: True
+2019-11-13 10:13:17.8356 | INFO | Service started
+2019-11-13 10:13:18.0107 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:14:34.9943 | INFO | Auto configuration: True
+2019-11-13 10:14:35.2726 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:14:35.4012 | INFO | RestService stopped
+2019-11-13 10:14:35.4012 | INFO | Auto configuration: True
+2019-11-13 10:14:35.4680 | INFO | Service started
+2019-11-13 10:14:35.6519 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:20:24.6573 | INFO | Auto configuration: True
+2019-11-13 10:20:24.9435 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:20:25.0727 | INFO | RestService stopped
+2019-11-13 10:20:25.0812 | INFO | Auto configuration: True
+2019-11-13 10:20:25.1311 | INFO | Service started
+2019-11-13 10:20:25.3007 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:23:36.3161 | INFO | Auto configuration: True
+2019-11-13 10:23:36.6004 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:23:36.7317 | INFO | RestService stopped
+2019-11-13 10:23:36.7397 | INFO | Auto configuration: True
+2019-11-13 10:23:36.7616 | INFO | Service started
+2019-11-13 10:23:36.9612 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:46:39.0818 | INFO | Auto configuration: True
+2019-11-13 10:46:39.3600 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:46:39.4897 | INFO | RestService stopped
+2019-11-13 10:46:39.4987 | INFO | Auto configuration: True
+2019-11-13 10:46:39.5176 | INFO | Service started
+2019-11-13 10:46:39.7025 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:59:10.4446 | INFO | Auto configuration: True
+2019-11-13 10:59:10.7264 | INFO | RestService started at http://localhost:8888/
+2019-11-13 10:59:10.8540 | INFO | RestService stopped
+2019-11-13 10:59:10.8630 | INFO | Auto configuration: True
+2019-11-13 10:59:10.8889 | INFO | Service started
+2019-11-13 10:59:11.0586 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:01:43.1621 | INFO | Auto configuration: True
+2019-11-13 11:01:43.4746 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:01:43.6587 | INFO | RestService stopped
+2019-11-13 11:01:43.6727 | INFO | Auto configuration: True
+2019-11-13 11:01:43.7077 | INFO | Service started
+2019-11-13 11:01:43.8907 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:04:40.5744 | INFO | Auto configuration: True
+2019-11-13 11:04:40.8607 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:04:40.9883 | INFO | RestService stopped
+2019-11-13 11:04:40.9973 | INFO | Auto configuration: True
+2019-11-13 11:04:41.0362 | INFO | Service started
+2019-11-13 11:04:41.2067 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:06:05.7708 | INFO | Auto configuration: True
+2019-11-13 11:06:06.0560 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:06:06.1846 | INFO | RestService stopped
+2019-11-13 11:06:06.1926 | INFO | Auto configuration: True
+2019-11-13 11:06:06.2076 | INFO | Service started
+2019-11-13 11:06:06.3981 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:10:59.9373 | INFO | Auto configuration: True
+2019-11-13 11:11:00.2555 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:11:00.3897 | INFO | RestService stopped
+2019-11-13 11:11:00.4027 | INFO | Auto configuration: True
+2019-11-13 11:11:00.4416 | INFO | Service started
+2019-11-13 11:11:00.6131 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:28:01.1138 | INFO | Auto configuration: True
+2019-11-13 11:28:01.4248 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:28:01.6375 | INFO | RestService stopped
+2019-11-13 11:28:01.6973 | INFO | Auto configuration: True
+2019-11-13 11:28:01.7093 | INFO | Service started
+2019-11-13 11:28:01.9110 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:28:20.2008 | INFO | Auto configuration: True
+2019-11-13 11:28:20.4958 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:28:20.6324 | INFO | RestService stopped
+2019-11-13 11:28:20.6703 | INFO | Auto configuration: True
+2019-11-13 11:28:20.6885 | INFO | Service started
+2019-11-13 11:28:20.9561 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:28:53.2291 | INFO | Auto configuration: True
+2019-11-13 11:28:53.5332 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:28:53.6777 | INFO | RestService stopped
+2019-11-13 11:28:53.7128 | INFO | Auto configuration: True
+2019-11-13 11:28:53.7278 | INFO | Service started
+2019-11-13 11:28:57.4695 | INFO | Auto configuration: True
+2019-11-13 11:28:57.7648 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:28:57.8959 | INFO | RestService stopped
+2019-11-13 11:28:57.9039 | INFO | Auto configuration: True
+2019-11-13 11:28:57.9218 | INFO | Service started
+2019-11-13 11:28:58.0994 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:29:31.8787 | INFO | Auto configuration: True
+2019-11-13 11:29:32.1546 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:29:32.3241 | INFO | RestService stopped
+2019-11-13 11:29:32.3241 | INFO | Auto configuration: True
+2019-11-13 11:29:32.3680 | INFO | Service started
+2019-11-13 11:29:32.5456 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:30:10.9031 | INFO | Auto configuration: True
+2019-11-13 11:30:11.1894 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:30:11.3519 | INFO | RestService stopped
+2019-11-13 11:30:11.3609 | INFO | Auto configuration: True
+2019-11-13 11:30:11.4108 | INFO | Service started
+2019-11-13 11:30:11.5959 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:30:32.3702 | INFO | Auto configuration: True
+2019-11-13 11:30:32.6545 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:30:32.7805 | INFO | RestService stopped
+2019-11-13 11:30:32.7965 | INFO | Auto configuration: True
+2019-11-13 11:30:32.8354 | INFO | Service started
+2019-11-13 11:30:33.0129 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:33:13.5297 | INFO | Auto configuration: True
+2019-11-13 11:33:13.8224 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:33:13.9501 | INFO | RestService stopped
+2019-11-13 11:33:13.9501 | INFO | Auto configuration: True
+2019-11-13 11:33:13.9980 | INFO | Service started
+2019-11-13 11:33:14.1934 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:34:25.2450 | INFO | Auto configuration: True
+2019-11-13 11:34:25.5355 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:34:25.6696 | INFO | RestService stopped
+2019-11-13 11:34:25.6696 | INFO | Auto configuration: True
+2019-11-13 11:34:25.7325 | INFO | Service started
+2019-11-13 11:34:25.9132 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:35:51.7003 | INFO | Auto configuration: True
+2019-11-13 11:35:51.9835 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:35:52.1227 | INFO | RestService stopped
+2019-11-13 11:35:52.1227 | INFO | Auto configuration: True
+2019-11-13 11:35:52.1496 | INFO | Service started
+2019-11-13 11:35:52.3291 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:37:14.0691 | INFO | Auto configuration: True
+2019-11-13 11:37:14.4343 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:37:14.5759 | INFO | RestService stopped
+2019-11-13 11:37:14.6358 | INFO | Auto configuration: True
+2019-11-13 11:37:14.7056 | INFO | Service started
+2019-11-13 11:37:14.8981 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:38:23.5337 | INFO | Auto configuration: True
+2019-11-13 11:38:23.8580 | INFO | RestService started at http://localhost:8888/
+2019-11-13 11:38:24.0085 | INFO | RestService stopped
+2019-11-13 11:38:24.0604 | INFO | Auto configuration: True
+2019-11-13 11:38:24.0993 | INFO | Service started
+2019-11-13 11:38:24.2814 | INFO | RestService started at http://localhost:8888/
+2019-11-13 14:43:57.2406 | INFO | Auto configuration: True
+2019-11-13 14:43:57.6416 | INFO | RestService started at http://localhost:8888/
+2019-11-13 14:43:57.8397 | INFO | RestService stopped
+2019-11-13 14:43:57.8845 | INFO | Auto configuration: True
+2019-11-13 14:43:57.8994 | INFO | Service started
+2019-11-13 14:43:58.1563 | INFO | RestService started at http://localhost:8888/
